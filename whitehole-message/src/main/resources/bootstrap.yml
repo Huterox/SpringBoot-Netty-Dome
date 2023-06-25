@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: message
+  cloud:
+    nacos:
+      config:
+        server-addr: 47.100.239.95:8848
